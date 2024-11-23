@@ -1,2 +1,2 @@
 # ddos
-Scrip basico en python para realizar DDoS
+Script basico en python para realizar DDoS
